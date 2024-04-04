@@ -57,7 +57,7 @@ conta div,
     display: flex;
     align-items: center;
     justify-content: space-between;
-    border-radius: 0.5125;
+    border-radius: 0.3125;
 }
 
 .conta input,
